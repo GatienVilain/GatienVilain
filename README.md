@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am **Gatien VILAIN**, a Third-year student in a five-year **engineering** programme leading to a Master’s in Engineering at Junia ISEN Lille. 
+I am **Gatien VILAIN**, a Third-year student in a five-year **engineering** programme leading to a Master’s in Engineering at Junia ISEN Lille.
 
 [![Linkedin: Gatien](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin)](https://www.linkedin.com/in/gatien-vilain/)
-[![GitHub Gatien](https://img.shields.io/github/followers/GatienVilain?label=Follow%20me&style=social)](https://github.com/gkhan205)
+[![GitHub Gatien](https://img.shields.io/github/followers/GatienVilain?label=Follow%20me&style=social)](https://github.com/GatienVilain)
 [![Discord M. Renard#7344](https://img.shields.io/badge/-M.%20Renard%237344-5968f6?&logo=discord&logoColor=white)](https://discordapp.com/users/492761649627791370)
 
 
