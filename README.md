@@ -9,7 +9,7 @@ I am **Gatien VILAIN**, a Fourth-year student in a five-year **engineering** pro
 
 ### 🧑‍💻 About Me :
 
-- 🌱 I’m currently learning **Rust Programming Language **
+- 🌱 I’m currently learning **Rust Programming Language**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Software Development, System programming, Web Development, Machine learning and AI**
 - 📫 How to reach me:
