@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Gatien VILAIN**, a Fourth-year student in a five-year **engineering** programme leading to a Master’s in Engineering at Junia ISEN Lille.
+I am **Gatien VILAIN**, an artificial intelligence engineering student and self-taught digital enthusiast.
 
 [![Linkedin: Gatien](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin)](https://www.linkedin.com/in/gatien-vilain/)
 [![GitHub Gatien](https://img.shields.io/github/followers/GatienVilain?label=Follow%20me&style=social)](https://github.com/GatienVilain)
